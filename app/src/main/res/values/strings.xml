@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Homework2811</string>
+    <string name="student_name_listview_item">nguyen van A</string>
+    <string name="student_id_listview_item">SV001</string>
+    <string name="show_list_button_in_blank_fragment">Show list</string>
+    <string name="edit_student_name">Nguyen Van A</string>
+    <string name="edit_student_id">SV001</string>
+    <string name="edit_student_button_cancel">Cancel</string>
+    <string name="edit_student_button_Add">Add New</string>
+    <string name="edit_student_name_textview">Họ và tên sinh viên</string>
+    <string name="edit_student_id_textview">Mã số sinh viên</string>
+    <string name="addNew_optionMenu">Thêm sinh viên mới</string>
+    <string name="edit_student_button_confirm">Confirm</string>
+</resources>
